@@ -1,0 +1,30 @@
+Fornecedor: Razão: Lucas Pontes; 
+    CNPJ: 52.124.868/0001-05; 
+    Data Cadastro: 20/01/2001; 
+    CEP: 01001-000; 
+    Rua: Praça da Sé; 
+    Complemento: lado ímpar; 
+    Bairro: Sé; 
+    Cidade: São Paulo; 
+    UF: SP; 
+    IBGE: 3550308; 
+    Telefone: (13)98209-5384; 
+    E-mail: coleti123@gmail.com; 
+    Imagem: ; 
+    
+
+Fornecedor: Razão: ABCDE; 
+    CNPJ: 36.024.076/000; 
+    Data Cadastro: 16/02/1990; 
+    CEP: 69088-127; 
+    Rua: Rua Araruana; 
+    Complemento: .; 
+    Bairro: Jorge Teixeira; 
+    Cidade: Manaus; 
+    UF: AM; 
+    IBGE: 1302603; 
+    Telefone: (92)98864-9112; 
+    E-mail: rafaela_dasilva@grupoamericaville.com.br; 
+    Imagem: ; 
+    
+

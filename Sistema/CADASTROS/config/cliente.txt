@@ -1,0 +1,30 @@
+Cliente: Nome: Juan Breno Breno Jesus; 
+    CPF: 173.697.134-40; 
+    RG: 29.977.759-5; 
+    CEP: 57303-120; 
+    Rua: Avenida Vereador João Saturnino de Almeida; 
+    N°: 600; 
+    Bairro: Verdes Campos; 
+    Cidade: Arapiraca; 
+    Complemento: lado par; 
+    UF: AL; 
+    Telefone: (82)98463-2453; 
+    E-mail: juan.breno.jesus@heineken.com.br; 
+    Imagem: ; 
+    
+
+Cliente: Nome: Vera Clara Nicole das Neves; 
+    CPF: 019.023.756-29; 
+    RG: 36.906.193-7; 
+    CEP: 85601-366; 
+    Rua: Rua Cerejeira; 
+    N°: 1; 
+    Bairro: São Cristóvão; 
+    Cidade: Francisco Beltrão; 
+    Complemento: lado par; 
+    UF: PR; 
+    Telefone: (46)98821-0544; 
+    E-mail: vera_clara_dasneves@br.ibn.com; 
+    Imagem: ; 
+    
+

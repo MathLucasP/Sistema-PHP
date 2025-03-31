@@ -1,0 +1,26 @@
+Produto: Codigo: 334; 
+    Nome: PC; 
+    Marca: Apple; 
+    Peso: 10; 
+    Preço Custo: 800; 
+    Preço Venda: 1200; 
+    Lucro: 50.00%; 
+    Unidade: PC; 
+    Fornecedor: Apple; 
+    Referencia: Hardware; 
+    Imagem: ; 
+    
+
+Produto: Codigo: ABC; 
+    Nome: Juan Breno Breno Jesus; 
+    Marca: Coito; 
+    Peso: 21; 
+    Preço Custo: 10; 
+    Preço Venda: 30; 
+    Lucro: 200.00%; 
+    Unidade: LS; 
+    Fornecedor: Apple; 
+    Referencia: Humano; 
+    Imagem: ; 
+    
+

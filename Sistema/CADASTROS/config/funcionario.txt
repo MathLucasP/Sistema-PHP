@@ -1,0 +1,32 @@
+Funcionario: Nome: Lucas Pontes Santos;
+    CPF: 720.047.829-60;
+    Data de Nascimento: 20/01/1988;
+    Sexo: masculino;
+    Departamento: TI;
+    Cargo: Chefe;
+    Salario: R$2222;
+    Status: ativo;
+    Estado Civil: Solteiro(a);
+    Data de Admissão: 20/01/1987;
+    Telefone: (13)98209-5384;
+    E-mail: coleti123@gmail.com;
+    Imagem: ;
+    ;
+    
+
+Funcionario: Nome: Rafaela Andreia Betina da Cruz;
+    CPF: 069.626.196-00;
+    Data de Nascimento: 07/01/2005;
+    Sexo: masculino;
+    Departamento: Marketing;
+    Cargo: Operario;
+    Salario: R$11939;
+    Status: ativo;
+    Estado Civil: Solteiro(a);
+    Data de Admissão: 11/08/2019;
+    Telefone: (96)98297-7689;
+    E-mail: rafaela_dacruz@doucedoce.com.br;
+    Imagem: ;
+    ;
+    
+
